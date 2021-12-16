@@ -2,6 +2,7 @@
 
 ## Overview of the School District Analysis
 
+The school board has requested us to analyze the entire district involving funding and student grades and provide any new insights and performance of the schools. During the analysis we were informed of suspect results from a particular group of students at one of the schools. Our process was to perform the analysis twice - once with the full data set then again isolating the suspect data and excluding it.
 
 ## Results
 
