@@ -16,6 +16,8 @@ The school board has requested us to analyze the entire district involving fundi
 
   The data change resulted in a less than a half of a percentage point change in overall grade percentages.
 
+
+
 * How is the school summary affected?
 
   First Look at School Summary prior to altering Thomas High School ninth-grade data.
@@ -33,6 +35,8 @@ The school board has requested us to analyze the entire district involving fundi
   ![Screen Shot 2021-12-19 at 10 32 08 AM](https://user-images.githubusercontent.com/93485455/146682905-850ba295-491f-4158-8096-a6604a2f9a32.png)
 
 
+
+
 * How does replacing the ninth graders' math and reading scores affect Thomas High School's performance relative to the other schools?
 
   First Look at Top Schools prior to altering Thomas High School ninth-grade data.
@@ -46,9 +50,32 @@ The school board has requested us to analyze the entire district involving fundi
 
 
 * How does replacing the ninth-grade scores affect the following:
+
   * Math and reading scores by grade
+  
+    Math Scores before removing Thomas High School ninth-grade data
+    
+    ![Math 2021-12-19 at 11 19 32 AM](https://user-images.githubusercontent.com/93485455/146684359-03898e74-98a1-4cb1-88a2-b61355650026.png)
+
+    Math Scores after removing Thomas High School ninth-grade data
+  
+    ![Math 2021-12-19 at 11 14 57 AM](https://user-images.githubusercontent.com/93485455/146684402-3930bead-be11-4ca1-8937-fe80b49829eb.png)
+
+    Reading Scores before removing Thomas High School ninth-grade data
+  
+    ![Reading 2021-12-19 at 11 18 51 AM](https://user-images.githubusercontent.com/93485455/146684371-c2167fec-8853-4f08-a2f6-d5213c7fb0c0.png)
+
+    Reading Scores after removing Thomas High School ninth-grade data
+    
+    ![Reading 2021-12-19 at 11 17 28 AM](https://user-images.githubusercontent.com/93485455/146684417-d01bfc85-a06b-47a2-8ace-210db29fd98b.png)
+
+  
   * Scores by school spending
+  
+  
   * Scores by school size
+  
+  
   * Scores by school type
 
 ## Summary
