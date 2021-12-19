@@ -43,7 +43,7 @@ The school board has requested us to analyze the entire district involving fundi
   
   ![Screen Shot 2021-12-19 at 10 43 03 AM](https://user-images.githubusercontent.com/93485455/146683168-00f64af5-9322-46de-a0eb-f715e4ac42f4.png)
 
-  Then omitting the ninth-grade data all together.
+  Then omitting the ninth-grade data all together for Top Schools.
 
   ![Screen Shot 2021-12-19 at 10 44 09 AM](https://user-images.githubusercontent.com/93485455/146683208-8ced1e56-99e9-4b63-b49b-f0579cda4222.png)
 
@@ -67,16 +67,38 @@ The school board has requested us to analyze the entire district involving fundi
 
     Reading Scores after removing Thomas High School ninth-grade data
     
-    ![Reading 2021-12-19 at 11 17 28 AM](https://user-images.githubusercontent.com/93485455/146684417-d01bfc85-a06b-47a2-8ace-210db29fd98b.png)
+    ![Reading 2021-12-19 at 11 14 00 AM](https://user-images.githubusercontent.com/93485455/146684481-3231fe71-c9fe-475d-885a-07854a02b36e.png)
+
 
   
   * Scores by school spending
   
+    First Look at Scores by School Spending prior to altering Thomas High School ninth-grade data.
+    ![Screen Shot 2021-12-19 at 11 30 37 AM](https://user-images.githubusercontent.com/93485455/146684699-252d3166-dd7b-43a2-b13d-12a7ab638e05.png)
+  
+    Then omitting the ninth-grade data all together for Scores by School Spending.
+    ![Screen Shot 2021-12-19 at 11 33 26 AM](https://user-images.githubusercontent.com/93485455/146684787-5c01787c-674c-4248-b295-47a3840f945e.png)
+
+  
   
   * Scores by school size
   
+    First Look at Scores by School Size prior to altering Thomas High School ninth-grade data.
+    ![Screen Shot 2021-12-19 at 11 28 34 AM](https://user-images.githubusercontent.com/93485455/146684653-99c0bda1-88d1-442a-ac83-6f6b919e5138.png)
+    
+    Then omitting the ninth-grade data all together for Scores by School Size.
+    ![Screen Shot 2021-12-19 at 11 32 46 AM](https://user-images.githubusercontent.com/93485455/146684769-e159355b-44db-4a82-8acc-d702f0df698f.png)
+
+  
   
   * Scores by school type
+
+    First Look at Scores by School Type prior to altering Thomas High School ninth-grade data.
+    ![Screen Shot 2021-12-19 at 11 29 39 AM](https://user-images.githubusercontent.com/93485455/146684677-8c09dcda-4436-4a69-9d27-6d4f39fd2d70.png)
+
+    Then omitting the ninth-grade data all together for Scores by School Type.
+    ![Screen Shot 2021-12-19 at 11 32 03 AM](https://user-images.githubusercontent.com/93485455/146684746-8cc6660f-1444-4239-9688-1c9fa48beca5.png)
+
 
 ## Summary
 
