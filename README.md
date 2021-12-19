@@ -20,11 +20,17 @@ The data change resulted in a less than a half of a percentage point change in o
 
 First Look at School Summary prior to pulling Thomas High School ninth-grade data out.
 
-![Screen Shot 2021-12-19 at 10 10 41 AM](https://user-images.githubusercontent.com/93485455/146682186-6091a5d7-8b9f-4824-a64c-afd01657555c.png)
+![Screen Shot 2021-12-19 at 10 10 41 AM](https://user-images.githubusercontent.com/93485455/146682885-d00b1ce6-1387-413f-a266-5b69fe91a07f.png)
 
-After removing Thomas School ninth-grade data.
 
-![Screen Shot 2021-12-19 at 10 13 53 AM](https://user-images.githubusercontent.com/93485455/146682207-f8c06f95-3404-48cc-ab91-a9fdff4db57c.png)
+Replacing Thomas School ninth-grade data with NANs.
+
+![Screen Shot 2021-12-19 at 10 13 53 AM](https://user-images.githubusercontent.com/93485455/146682897-10461e08-5a65-4aaf-a0fd-105981b35eb0.png)
+
+
+Then omitting the ninth-grade data all together.
+
+![Screen Shot 2021-12-19 at 10 32 08 AM](https://user-images.githubusercontent.com/93485455/146682905-850ba295-491f-4158-8096-a6604a2f9a32.png)
 
 
 * How does replacing the ninth graders' math and reading scores affect Thomas High School's performance relative to the other schools?
