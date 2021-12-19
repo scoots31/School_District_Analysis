@@ -102,4 +102,10 @@ The school board has requested us to analyze the entire district involving fundi
 
 ## Summary
 
-Summarize four changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NANs.
+Determination of the extent of the potential academic dishonesty or identify specific individuals to exclude from the dataset is not part of this analysis. Our analysis provides two paths for the district when trying to view the data. Viewing the data with the entire ninth grade of students from Thomas High School with their scores omitted from the results or leaving the data but replacing them with NaN.
+
+Excluding the Thomas High School ninth graders and omitting their scores from the dataset, Thomas High School regained its high average scores and retained its position as the number two school in the district from the original analysis. The in-depth analysis of the district on spend, size, and type does not change all that much from the original analysis and the omitted ninth grade data. 
+
+Relacing the ninth graders' scores with NaN caused Thomas High School's overall passing percentages and average scores to drop significantly. Thomas High School lost its placement as a top five school within this District. The district has also had its average math and reading scores decrease, as well as the overall passing percentage for students. 
+
+
